@@ -1,2 +1,2 @@
-# chatbots
-interactive chatbot conversational for Lead genration integrated with spreadsheet and made with typebot for ecommerce websites
+# chatbots 
+interactive chatbot conversational for Lead genration, customer support integrated with spreadsheet and made with typebot for online Websites
